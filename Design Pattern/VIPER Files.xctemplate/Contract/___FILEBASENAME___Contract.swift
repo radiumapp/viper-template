@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 protocol ___VARIABLE_ModuleName___View: PresentableView, IndicatableView {
     // TODO: Declare view methods
