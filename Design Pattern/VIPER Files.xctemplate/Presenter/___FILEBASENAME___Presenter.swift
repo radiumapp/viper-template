@@ -15,7 +15,7 @@ class ___VARIABLE_ModuleName___Presenter: ___VARIABLE_ModuleName___Presentation 
     var router: ___VARIABLE_ModuleName___Wireframe!
     var interactor: ___VARIABLE_ModuleName___UseCase!
 
-    init(view: ProfileInfoView/*, viewModel: ProfileInfoViewModel*/, interactor: ProfileInfoUseCase, router: ProfileInfoWireframe) {
+    init(view: ___VARIABLE_ModuleName___View/*, viewModel: ___VARIABLE_ModuleName___ViewModel*/, interactor: ___VARIABLE_ModuleName___UseCase, router: ___VARIABLE_ModuleName___Wireframe) {
         self.view = view
  //     self.viewModel = viewModel
         self.interactor = interactor
